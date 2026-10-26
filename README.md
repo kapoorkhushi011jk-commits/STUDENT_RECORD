@@ -14,3 +14,5 @@ to manage student records (Enrolment ID, Name, Department).
 
 ## Compile & Run
 ```bash
+gcc student_bst.c -o student_bst
+./student_bst
